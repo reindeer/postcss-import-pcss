@@ -1,0 +1,29 @@
+{
+  "name": "postcss-import-pcss",
+  "version": "1.0.0",
+  "description": "Import postcss files started from underscore (_) like scss",
+  "main": "index.js",
+  "dependencies": {
+    "postcss": "^6.0.13",
+    "read-cache": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/reindeer/postcss-import-pcss.git"
+  },
+  "keywords": [
+    "postcss",
+    "import",
+    "scss"
+  ],
+  "author": "Denis Daschenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reindeer/postcss-import-pcss/issues"
+  },
+  "homepage": "https://github.com/reindeer/postcss-import-pcss#readme"
+}
